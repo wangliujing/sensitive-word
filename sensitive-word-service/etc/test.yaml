@@ -1,0 +1,8 @@
+Hosts:
+  -
+    Ip: 172.30.20.23
+    Port: 8848
+Namespace: test
+ConfigParam:
+  DataId: sensitive-word
+  Type: yaml

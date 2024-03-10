@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab2bf49f-3391-4d3b-9943-6efe3650ecba" name="Changes" comment="初始化导入">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/etc/pre.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/etc/prod.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/etc/test.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/internal/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/internal/core/bak/trie.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/internal/core/extend.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/internal/core/trie.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/internal/core/trie_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/internal/infra/repo/sensitive_word.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/internal/infra/repo/sensitive_word_local.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/internal/jsonrpc/sensitive_word.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/internal/listener/word_change_listener.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/internal/logic/sensitive_word.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/internal/pojo/dto/dto.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/internal/svc/service_context.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sensitive-word-service/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../go-1.20.5" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2dV6hxosAXTOixRzCTKE19957j7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "D:/Program Files/Go/IdeaProject/sensitive-word",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "http.proxy"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化导入" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化导入" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
